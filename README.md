@@ -1,2 +1,2 @@
 # myfavoritemovie
-!![een dummy foto](img/dummy.png)
+![Uma Thurman](pulp-fiction-met-uma-thurman.jpg)
